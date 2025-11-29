@@ -1,7 +1,9 @@
 # Motivation:
-Generative AI is currently being applied to creative fields, but AI art faces numerous ethical controversies. In Chinese Fandom, which I've been involved in for a long time, debates about AI fan art have been frequent. Through this project, I hope to understand the most common characteristics of AI fan art and its popularity, and to envision its potential position and development within the fandom in the future.
+Generative AI is currently being applied to creative fields, but AI art faces numerous ethical controversies. As a fan who has envolved in Chinese fandom for a long time, I obeserved debates about AI fan arts, and concerns about the future of human creativity in respect of originality protection, human automy and fan idenitity under this impact of generative AI technology. Through this project, I hope to understand the most common characteristics of AI fan art and its popularity, and to envision its potential position and development within the fandom in the future.
+
 # Data source:
-This dataset is a collection of data from the tag "ai绘画(ai drawings)" in Chinese fan platform Lofter. It is collected from the rankings of posts from March 2024 - April 2024. By analyzing this dataset, I hope to explore the relationship between the number of likes, recommendations, and comments received by AI fan art and independent variables such as style, illustration scale, affiliated fandom, and original work type of the fandom.
+This dataset is a collection of data from the tag "ai绘画(ai drawings)" in Chinese fan platform Lofter. It is collected works data from the rankings from March 2024 - April 2024. By analyzing this dataset, I hope to explore the relationship between the number of likes, recommendations, and comments received by AI fan art and independent variables such as style, illustration scale, affiliated fandom, and original work type of the fandom.
+
 # Visualization:
 
 <img width="875" height="540" alt="image" src="https://github.com/user-attachments/assets/fac3b7c8-3d49-4eda-ae4c-733a1d4ea535" />
