@@ -5,7 +5,11 @@ Generative AI is currently being applied to creative fields, but AI art faces nu
 This dataset is a collection of data from the tag "ai绘画(ai drawings)" in Chinese fan platform Lofter. It is collected works data from the rankings from March 2024 - April 2024. By analyzing this dataset, I hope to explore the relationship between the number of likes, recommendations, and comments received by AI fan art and independent variables such as style, illustration scale, affiliated fandom, and original work type of the fandom.
 
 # Data Processing: 
-The data was collected by hand from the platform Lofter. For fandom and characters, I read from the tags of the posts and translated those fandom and characters' names in English. For style and scale, I have compiled tags based on the consensus of Chinese fans and the stylistic classifications in digital painting, and I use these tags as predictors. For example, the style that frequently appears in Japanese games and animation is classified as "ACGN" style, while the style that lacks accurate outlines and relies on color to create the sense of volume of characters is classified as "Impasto" style.
+The data was collected by hand from the platform Lofter. For fandom and characters, I read from the tags of the posts and translated those fandom and characters' names in English. For "Style" and "Scale", I have compiled tags based on the consensus of Chinese fans and the stylistic classifications in digital painting, and I use these tags as predictors. For example, the style that frequently appears in Japanese games and animation is classified as "ACGN" style, while the style that lacks accurate outlines and relies on color to create the sense of volume of characters is classified as "Impasto" style.
+The "Category" is the category of the main object in the image, and I divided the categories into "Character" and "Landscape."
+The "Like", "Recommendation" and "Comment" values are directly from the statistics of the platforms, which are under each post;
+The "Type" is the genre of the original work, as these works belongs to genre of game, anime, novel, etc.;
+The "Country.of.the.original.work" is based on my research on the data I collected, as I searched for each fandom's original works' producers' country.
 
 # Visualization:
 
